@@ -1,7 +1,7 @@
 # Auto-tuning-TID-controller
 Software and experiment data of auto-tuning TID controller
 
-About FOTF Toolbox
+About auto-tuning code
 
   Professor Chuang Li, Hainan University, Hainan, China
   Email: lc@hainanu.edu.cn
