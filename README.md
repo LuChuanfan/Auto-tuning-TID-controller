@@ -10,6 +10,6 @@ About the Software and experiment data of auto-tuning TID controller
      
   Date of last modification, 09 May, 2022
      
-  This newly modified auto-tuning code, for details, please cite... 
+  This auto-tuning TID code is written for the paper, for details, please cite... 
  
   waiting for publishing
