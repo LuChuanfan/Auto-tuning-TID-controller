@@ -1,6 +1,5 @@
 # Auto-tuning-TID-controller
-About the Software and experiment data of auto-tuning TID controller
-
+About the code and experiment data of auto-tuning TID controller
 
   Professor Chuang Li, Hainan University, Hainan, China
   Email: lc@hainanu.edu.cn
